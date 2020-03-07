@@ -1,0 +1,21 @@
+{
+  "name": "tallerexpressjs",
+  "version": "1.0.0",
+  "description": "Ejercicio de Express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "Tatta"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TattaArias"
+  },
+  "keywords": [
+    "20482Tatta*"
+  ],
+  "author": "Tatta Arias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
